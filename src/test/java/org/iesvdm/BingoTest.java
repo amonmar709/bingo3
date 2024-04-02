@@ -151,13 +151,5 @@ public class BingoTest {
         assertEquals(Bingo.ordenar(tabla), tabla);
     }
 
-    @Test
-    void limpiar(){
-        //When
-        //Partiendo de un array
-        int array[] = {};
-        //do
-        //Compruebo que esta vacio
 
-    }
 }
